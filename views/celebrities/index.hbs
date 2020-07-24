@@ -1,0 +1,14 @@
+<h2>Welcome to celebrity feud</h2>
+
+<div>
+  {{#each celebrities}}
+  <a href="/celebrities/{{ id }}">
+     <p>{{ name }}</p>
+   </a>
+   <form action="/celebrities/{{id}}/delete" method="POST">
+  <button>Delete celeb</button>
+  </form>
+  {{/each}}
+  </div>
+
+<a href="/celebrities/create">Create celeb page</a>

@@ -1,17 +1,17 @@
 [
   {
-    "name": "Tom Cruise",
-    "occupation": "actor",
-    "catchPhrase": "You complete me"
+    "title": "The Godfather",
+    "genre": "Crime",
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
   },
   {
-    "name": "Beyoncé",
-    "occupation": "singer",
-    "catchPhrase": "I sneezed on the beat and the beat got sicker"
+    "name": "The Shawshank redemption",
+    "genre": "Drama",
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
   },
   {
-    "name": "Kim Kardashian",
-    "occupation": "unknown",
-    "catchPhrase": "There's a lot of baggage that comes with us, but it's like Louis Vuitton baggage. You always want it."
+    "name": "Schindler's list",
+    "genre": "Biography",
+    "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
   }
 ]
